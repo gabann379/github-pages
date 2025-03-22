@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ura.cc	TRUE	/	FALSE	1999999999	PHPSESSID	3jm5cid25p48bk8oo8qcrgjche
+ura.cc	TRUE	/	FALSE	1999999999	SameSite	Lax
+ura.cc	TRUE	/	FALSE	1999999999	s_statistics_2040	0
+dana.id	TRUE	/	FALSE	1999999999	AKA_A2	A
+
